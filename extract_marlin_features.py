@@ -106,8 +106,8 @@ def extract_features(video_path):
 # ================================
 
 # Update paths
-raw_video_folder = "/Users/yaminmohammadbhat/Desktop/rPPG/DATASET_FACES"  
-output_folder    = "/Users/yaminmohammadbhat/Desktop/rPPG/marlin_features" 
+raw_video_folder = "/Users/Desktop/rPPG/DATASET_FACES"  
+output_folder    = "/Users/Desktop/rPPG/marlin_features" 
 
 def process_folder(folder):
     count = 0

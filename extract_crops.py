@@ -3,9 +3,9 @@ import json
 import numpy as np
 import os
 
-INPUT_ROOT = "/Users/yaminmohammadbhat/Desktop/rPPG/DATASET"
-DETECTION_ROOT = "/Users/yaminmohammadbhat/Desktop/rPPG/DETECTED_JSON"
-OUTPUT_ROOT = "/Users/yaminmohammadbhat/Desktop/rPPG/DATASET_FACES"
+INPUT_ROOT = "/Users/Desktop/rPPG/DATASET"
+DETECTION_ROOT = "/Users/Desktop/rPPG/DETECTED_JSON"
+OUTPUT_ROOT = "/Users/Desktop/rPPG/DATASET_FACES"
 
 CLASSES = ["real", "fake"]
 

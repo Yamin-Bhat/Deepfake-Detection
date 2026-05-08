@@ -11,8 +11,8 @@ try:
 except AttributeError:
     import mediapipe.python.solutions.face_mesh as mp_face_mesh
 
-INPUT_ROOT_DIR = "/Users/yaminmohammadbhat/Desktop/rPPG/DATASET_FACES"
-OUTPUT_ROOT_DIR = "/Users/yaminmohammadbhat/Desktop/rPPG/OUTPUT_HEARTBEAT" 
+INPUT_ROOT_DIR = "/Users/Desktop/rPPG/DATASET_FACES"
+OUTPUT_ROOT_DIR = "/Users/Desktop/rPPG/OUTPUT_HEARTBEAT" 
 TARGET_SHAPE = (64, 256)
 
 ROI_ZONES = {

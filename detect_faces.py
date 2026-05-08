@@ -5,8 +5,8 @@ import torch
 import numpy as np
 from face_detector import FacenetDetector, VideoDataset
 
-INPUT_ROOT = "/Users/yaminmohammadbhat/Desktop/rPPG/DATASET"
-OUTPUT_ROOT = "/Users/yaminmohammadbhat/Desktop/rPPG/DETECTED_JSON"
+INPUT_ROOT = "/Users//Desktop/rPPG/DATASET"
+OUTPUT_ROOT = "/Users//Desktop/rPPG/DETECTED_JSON"
 CLASSES = ["real", "fake"]
 
 
